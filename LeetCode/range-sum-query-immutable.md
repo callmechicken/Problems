@@ -12,6 +12,8 @@ tags:
 
 #### 前缀和解法
 
+`preSum[i]` 就是 `nums[0...i - 1]` 的和。如果我们想求 `nums[i..j]` 的和，只需要一步操作 `preSum[j + 1]` - `preSum[i]` 即可，而不需要去遍历数组了。
+
 ```java
 class NumArray {
     
