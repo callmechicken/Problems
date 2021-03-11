@@ -5,11 +5,12 @@ categories:
 - LeetCode
 tags:
 - 数组
+- 模拟
 ---
 
 [题目链接](https://leetcode-cn.com/problems/plus-one/)
 
-#### 暴力解法
+#### 解法
 
 从后往前扫，如果当前位数字为9，那么这位数字加 1 后就余下 0 产生进位；如果当前位数字不为 9，那么该位数字加 1，直接返回数组即可。
 

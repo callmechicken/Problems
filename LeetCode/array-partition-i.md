@@ -4,12 +4,12 @@ date: 2021/3/10
 categories:
 - LeetCode
 tags:
-- 数组
+- 找规律
 ---
 
 [题目链接](https://leetcode-cn.com/problems/array-partition-i/)
 
-#### 暴力解法
+#### 解法
 
 找到规律就是扫一遍的事。
 

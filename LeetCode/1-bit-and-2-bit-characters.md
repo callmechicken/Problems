@@ -4,7 +4,7 @@ date: 2021/3/10
 categories:
 - LeetCode
 tags:
-- 数组
+- 模拟
 ---
 
 [题目链接](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/)

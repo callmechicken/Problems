@@ -6,28 +6,12 @@ categories:
 tags:
 - 数组
 - 数学
+- 找规律
 ---
 
 [题目链接](https://leetcode-cn.com/problems/counting-bits/)
 
-#### 偷鸡解法
-
-```java
-class Solution {
-    public int[] countBits(int num) {
-        int[] result = new int[num + 1];
-        for (int i = num; i > 0; i--) {
-            result[i] = Integer.bitCount(i);
-        }
-        return result;
-    }
-}
-```
-
-- 时间复杂度：*O(N)*
-- 空间复杂度：*O(N)*
-
-#### 数学解法
+#### 解法
 
 奇数的二进制一定比前面那个偶数的二进制多一个最低位的 1。
 

@@ -9,7 +9,7 @@ tags:
 
 [题目链接](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)
 
-#### 暴力解法
+#### 解法
 
 找出最大值和第二大值，记录最大值的索引，如果最大值小于第二大值的两倍，则返回 -1。
 
