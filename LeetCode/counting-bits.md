@@ -4,7 +4,6 @@ date: 2021/3/9
 categories:
 - LeetCode
 tags:
-- 数组
 - 数学
 - 找规律
 ---

@@ -9,7 +9,7 @@ tags:
 
 [题目链接](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/)
 
-#### 暴力解法
+#### 解法
 
 如果是 0，则从下一位开始扫，如果是 1，则从下两位开始扫。
 

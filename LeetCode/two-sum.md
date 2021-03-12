@@ -4,8 +4,7 @@ date: 2021/3/8
 categories:
 - LeetCode
 tags:
-- 数组
-- 哈希表
+- 哈希
 ---
 
 [题目链接](https://leetcode-cn.com/problems/two-sum/)
