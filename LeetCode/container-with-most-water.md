@@ -12,6 +12,8 @@ tags:
 
 #### 对撞指针解法
 
+每次选定围成水槽两板中的短板，向中间收窄 1 格。
+
 ```java
 class Solution {
     public int maxArea(int[] height) {
