@@ -10,7 +10,7 @@ tags:
 
 [题目链接](https://leetcode-cn.com/problems/sort-array-by-parity/)
 
-#### 双指针解法
+#### 快慢指针解法
 
 ```java
 class Solution {
