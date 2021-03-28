@@ -5,6 +5,8 @@ categories:
 - LeetCode
 tags:
 - 数组
+- 哈希
+- 排序
 ---
 
 [题目链接](https://leetcode-cn.com/problems/contains-duplicate/)
@@ -30,7 +32,7 @@ class Solution {
 - 时间复杂度：*O(n log n)*
 - 空间复杂度：*O(1)*
 
-#### 利用数据结构的解法
+#### 哈希解法
 
 主要是 **contains** 函数，它能在 *O(1)* 的时间找到元素，不用 **Map** 是因为键值对有点冗余。
 
