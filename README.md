@@ -25,6 +25,8 @@ LeetCode 1572. 矩阵对角线元素的和
 
 LeetCode 1426. 数元素
 
+LeetCode 1002. 查找常用字符
+
 ##### 用HashMap做哈希
 
 LeetCode 1426. 数元素
