@@ -10,7 +10,7 @@ tags:
 
 [题目链接](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/)
 
-#### 扫描解法
+#### 遍历解法
 
 ##### 一路扫过去
 

@@ -10,9 +10,9 @@ tags:
 
 [题目链接](https://leetcode-cn.com/problems/3sum/)
 
-#### 双指针解法
+#### 对撞指针解法
 
-https://leetcode-cn.com/problems/3sum/solution/hua-jie-suan-fa-15-san-shu-zhi-he-by-guanpengchn/
+[此解法](https://leetcode-cn.com/problems/3sum/solution/hua-jie-suan-fa-15-san-shu-zhi-he-by-guanpengchn/)本质上是在对撞指针的模板上添了点东西。
 
 ```java
 class Solution {
