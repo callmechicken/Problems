@@ -19,6 +19,8 @@ LeetCode 717. 1比特与2比特字符
 
 LeetCode 941. 有效的山脉数组
 
+LeetCode 1. 两数之和
+
 ##### 对撞指针
 
 LeetCode 941. 有效的山脉数组
@@ -42,3 +44,5 @@ LeetCode 1002. 查找常用字符
 ##### 用HashMap做哈希
 
 LeetCode 1426. 数元素
+
+LeetCode 1. 两数之和
