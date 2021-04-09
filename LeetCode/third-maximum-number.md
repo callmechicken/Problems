@@ -9,9 +9,9 @@ tags:
 
 [题目链接](https://leetcode-cn.com/problems/third-maximum-number/)
 
-#### 解法
+#### 遍历解法
 
-##### TreeSet解法
+##### 利用TreeSet解法
 
 ```java
 class Solution {
@@ -28,7 +28,7 @@ class Solution {
 }
 ```
 
-##### 三个变量扫描交换解法
+##### 维护三个变量解法
 
 ```java
 class Solution {

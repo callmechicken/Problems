@@ -21,6 +21,8 @@ LeetCode 941. 有效的山脉数组
 
 LeetCode 1. 两数之和
 
+LeetCode 414. 第三大的数
+
 ##### 对撞指针
 
 LeetCode 941. 有效的山脉数组
